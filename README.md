@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
-- 🔭 I’m currently looking for an oppotunity in **web development**
+- 🔭 I’m currently looking for my first oppotunity in **web development**
 
-- 👯 I’m looking to collaborate on [freecodecamp](https://www.freecodecamp.org/)
-
-- 📫 How to reach me **www.linkedin.com/in/victor-luque-buxade**
+- 👯 I’m looking to collaborate on the [freecodecamp project](https://www.freecodecamp.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/víctor luque buxadé" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="víctor luque buxadé" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victor-luque-buxade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-luque-buxade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
